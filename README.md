@@ -31,6 +31,7 @@ $ npm run dev
 ```
 ### 5.Modelo de Estrutura:
 Modelo para estruturar um projeto com BACKEND e FRONTEND
+
 ![estrutura do projeto](https://user-images.githubusercontent.com/60274303/82248396-73421280-991e-11ea-84f0-9645e1aa281c.png)
 
 ### Tecnologias
