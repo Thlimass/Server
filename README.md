@@ -2,6 +2,7 @@
 Servidor em Node.JS
 
 ### 1.Criar um arq. "server.js"
+Crie o arquivo "serve.js" no seu editor de texto.
 
 ### 2.Instalar as dependencias que iremos usar:
 ```
@@ -21,7 +22,14 @@ npm install nodemon -D
 ```
 (-D: pois só será usado para desenvolver, quando for para produção, não será mas utilizado.)
 
-### 3.Para iniciar o servidor:
+### 3.Código pronto:
+
+
+### 4.Para iniciar o servidor:
 ```
 $ npm run dev
 ```
+### 5.Modelo de Estrutura:
+Modelo para estruturar um projeto com BACKEND e FRONTEND
+![estrutura do projeto](https://user-images.githubusercontent.com/60274303/82248396-73421280-991e-11ea-84f0-9645e1aa281c.png)
+
